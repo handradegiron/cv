@@ -1,8 +1,4 @@
-HÉCTOR F. ANDRADE GIRÓN
-Edad: 40 años
-DNI: 41814460
-Telf.: (511)979978471
-handrade@pucp.pe
+HÉCTOR F. ANDRADE GIRÓN, Email: handrade@pucp.pe
 
 RESUMEN
 
