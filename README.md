@@ -10,13 +10,3 @@ Con más de 12 años de experiencia en proyectos de transformación digital en e
 
 Actualmente realiza labores de investigación, pruebas de concepto y pruebas piloto para determinar hasta qué punto la inteligencia artificial y otras tecnologías emergentes pueden contribuir en la mejora de la celeridad y descarga procesal en la administración de justicia del Perú.
 
-
-ABSTRACT
-
-MBA from the Centrum Católica de la Pontificia Universidad Católica del Perú. Diploma in Public Management from the PUCP. Graduated and Collegiate in Systems Engineering from the UNJFSC and is currently studying a specialization program in Data Science and Machine Learning at the UAM.
-
-It has various specialized courses on Artificial Intelligence, Digital Transformation, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Python technology.
-
-With more than 12 years of experience in digital transformation projects in the public sector; He has contributed to the design, development, and implementation of various projects related to the application of artificial intelligence, robotic process automation, and machine learning in sectors such as: citizen security, genetic research, agriculture, and justice administration. Some of these projects under IDB financing.
-
-He is currently carrying out research, concept proofs and pilot tests to determine to what extent artificial intelligence and other emerging technologies can contribute to improving the speed and procedural discharge in the administration of justice in Peru.
