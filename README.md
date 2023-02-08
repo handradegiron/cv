@@ -13,7 +13,7 @@ Actualmente realiza labores de investigación, pruebas de concepto y pruebas pil
 
 ABSTRACT
 
-MBA from the Catholic Center of the Pontifical Catholic University of Peru. Diploma in Public Management from the PUCP. Graduated and Collegiate in Systems Engineering from the UNJFSC and is currently studying a specialization program in Data Science and Machine Learning at the UAM.
+MBA from the Centrum Católica de la Pontificia Universidad Católica del Perú. Diploma in Public Management from the PUCP. Graduated and Collegiate in Systems Engineering from the UNJFSC and is currently studying a specialization program in Data Science and Machine Learning at the UAM.
 
 It has various specialized courses on Artificial Intelligence, Digital Transformation, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Python technology.
 
