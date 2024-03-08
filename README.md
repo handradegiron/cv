@@ -1,4 +1,4 @@
-HÉCTOR F. ANDRADE GIRÓN, Email: handrade@pucp.pe
+HÉCTOR F. ANDRADE GIRÓN, Email: handrade@alphagob.com
 
 RESUMEN
 
